@@ -6,7 +6,7 @@
 * ADMIN : 
 	*CRUD fruits/vegetable.
 * USER:
-	* Login by account (Have capcha)
+	* Login by account (Have capcha)/Login by Google
 	* Logout
 	* Search fruits/vegetable by name.
 	* View list of fruits/vegetable
