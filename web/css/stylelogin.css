@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12-03-2022, 21:51:53
+    Author     : Xqy
+*/
+h2{
+    text-align: center;
+}
+.container{
+    width: 300px;
+    margin: 0 auto;
+}
+input{
+    width: 300px;
+    height: 30px;
+}
+.right-enter{
+    text-align: right;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.login{
+    width: 300px;
+    height: 40px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.or-login{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.login-google{
+    width: 300px;
+    height: 40px;
+    background-color: red;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+}
+
